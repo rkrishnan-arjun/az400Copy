@@ -12,6 +12,7 @@ namespace AzureDevops.Controllers
     public class HomeController : Controller
     {
         // Master commit 1
+        // Master commit 2
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)

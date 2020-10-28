@@ -10,6 +10,7 @@ using AzureDevops.Models;
 namespace AzureDevops.Controllers
 {
     // rebase commit 1
+    // rebase commit 2
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
